@@ -1,0 +1,7 @@
+.container{
+  width: 400px;
+  position: absolute;
+  background-color: aliceblue;
+  right: 20px;
+  top: 40px;
+}
